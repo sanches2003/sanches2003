@@ -17,7 +17,6 @@
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />    
 <img align="right" src="https://i.picasion.com/pic92/5a66d883706bde523aac2a57064bbd84.gif" width="200" height="200" border="0" alt="https://picasion.com/">
 </div>  
 
