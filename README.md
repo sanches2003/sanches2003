@@ -16,7 +16,6 @@
 <br>
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="right" src="https://i.picasion.com/pic92/1b7d21edce9cf00fe00f451ad3b7ee8b.gif" width="160" height="160" border="0" alt="https://picasion.com/">
 </div>  
 
