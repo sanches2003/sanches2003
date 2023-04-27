@@ -6,7 +6,7 @@
 - 🧑‍🎓 Estou estudando Sistemas de Informação em Toledo Prudente;
 - 🖥️ Meu objetivo é trabalhar com front-end;
 - 📍  Me localizo em: Presidente Prudente - SP;
-- 📫 Contate-me: felipenmsanches2003@gmail.com
+- 📫 Contate-me: felipenmsanches2003@gmail.com / LinkedIn: https://www.linkedin.com/in/felipe-natan-sanches-6b3691216/
 - 🧑 Pronomes: Ele/Dele
 
 <br>
