@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-- 💼 No momento, trabalho na rede de farmácias Santa Catarina;
+- 💼 Atualmente, sou analista na empresa Compusoft Soluções;
 - 🧑‍🎓 Estou estudando Sistemas de Informação em Toledo Prudente;
 - 🖥️ Meu objetivo é trabalhar com front-end;
 - 📍  Me localizo em: Presidente Prudente - SP;
