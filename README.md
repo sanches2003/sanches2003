@@ -3,7 +3,7 @@
           
 
 - 💼 Atualmente, sou programador estagiário na empresa Compusoft Soluções;
-- 🧑‍🎓 Estou estudando Sistemas de Informação em Toledo Prudente;
+- 🧑‍🎓 Graduado em Sistemas de Informação por Toledo Prudente;
 - 🖥️ Estágio em back-end Delphi 10.2 Tokyo;
 - 📍  Me localizo em: Presidente Prudente - SP;
 - 📫 Contate-me: felipenmsanches2003@gmail.com / LinkedIn: https://www.linkedin.com/in/felipe-natan-sanches-6b3691216/
