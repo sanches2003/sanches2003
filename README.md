@@ -7,7 +7,6 @@
 - 🖥️ Efetivado trabalhando com back-end ⚙️ Delphi 10.2 Tokyo;
 - 📍  Me localizo em: Presidente Prudente - SP;
 - 📫 Contate-me: felipenmsanches2003@gmail.com / LinkedIn: https://www.linkedin.com/in/felipe-natan-sanches-6b3691216/
-- 🧑 Pronomes: Ele/Dele
 
 <br>
 
