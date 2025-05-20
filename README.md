@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-- 💼 Atualmente, sou programador estagiário na empresa Compusoft Soluções;
+- 💼 Atualmente, sou programador efetivado na empresa Compusoft Soluções;
 - 🧑‍🎓 Graduado em Sistemas de Informação por Toledo Prudente;
 - 🖥️ Efetivado trabalhando com back-end ⚙️ Delphi 10.2 Tokyo;
 - 📍  Me localizo em: Presidente Prudente - SP;
